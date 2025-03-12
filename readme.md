@@ -9,4 +9,4 @@
 5. **Hice un commit:** "Proceso", para guardar los cambios realizados.
 6. Ahora voy a revertir un commit erroneo que esta en la rama interface.
 7. Casi por ultimo voy a mezclar las ramas menos la mia ;v en la main.
-8. 
+8. Por ultimo voy a subir los cambios a mi repositorio remoto.
