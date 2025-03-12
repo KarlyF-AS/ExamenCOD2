@@ -1,10 +1,11 @@
-# Evaluacion 2 de COD
-## Tengo que trabajar con un fork que Damian (el profe) nos dio y explicar mi proceso en este Readme
+# Evaluación 2 de COD
 
-
-### Un poco sobre el proceso
-Para empezar, le hice un Fork al repo de Damian (el profe) en mi Github. Luego, abri ese repo en mi IDEA y creé una rama
-llamada "readme" y me cambié a ella. En esta rama, creé un archivo llamado "readme.md" y escribí un poco sobre mi proceso 
-en este archivo. Luego, hice un commit con el mensaje "Agrego archivo de evaluacion2" y subí los cambios a mi repositorio remoto.
-Finalmente, hice un pull request para fusionar mi rama con la rama principal del repositorio de Damian.
-
+## Proceso
+### **Aviso**: Utilicé el comando "git init" para inicializar el git en mi proyecto, porque no aparecia en la barra de menú.
+1. **Hacer un Fork**: Cloné el repositorio original de Damian (el profesor) a mi cuenta de GitHub.
+2. **Clonación Local**: Cloné el repositorio a la pc para trabajar sobre él.
+3. **Crear una Rama**: Creé una nueva rama llamada `readme` para trabajar de manera independiente.
+4. **Documentar el Proceso**: Escribí este archivo `README.md` para explicar el proceso de trabajo.
+5. **Hice un commit:** "Proceso", para guardar los cambios realizados.
+6. Ahora voy a revertir un commit erroneo que esta en la rama interface.
+7. Casi por ultimo voy a mezclar las ramas menos la mia ;v en la main.
